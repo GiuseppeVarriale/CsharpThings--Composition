@@ -1,4 +1,6 @@
-﻿namespace CompositionExercise.Entities
+﻿using System;
+
+namespace CompositionExercise.Entities
 {
     class HourContract
     {
